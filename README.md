@@ -1,6 +1,6 @@
 # Mobile5
 
-# link youtube(menyusul pak)
+# link youtube()
 
 # a. Explicit Intent:
 Explicit Intent adalah jenis intent dalam pengembangan Android yang secara jelas menentukan komponen tujuan yang akan dipanggil. Dalam Explicit Intent, pengembang secara eksplisit menyebutkan nama komponen tujuan yang ingin dipanggil, seperti aktivitas, layanan, atau penerima siaran. Intent ini digunakan untuk memulai komponen dalam aplikasi yang sama atau dalam aplikasi yang berbeda dengan menyebutkan nama paket dan kelas komponen yang dituju.
